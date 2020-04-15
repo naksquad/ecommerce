@@ -10,11 +10,11 @@ Clothing Ecommerce Website
 
 ## Page
 
-![](image/chopper_pic.png)
-![](image/Shopping_cart.png)
-![](image/myaccount.png)
-![](image/caertPic.png)
-![](image/Database.png)
+![](chopper_pic.png)
+![](Shopping_cart.png)
+![](myaccount.png)
+![](caertPic.png)
+![](Database.png)
 
 
 
